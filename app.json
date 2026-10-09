@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "innt-app",
+    "slug": "innt-app",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "57.0.0",
+    "platforms": ["ios", "android"]
+  }
+}
