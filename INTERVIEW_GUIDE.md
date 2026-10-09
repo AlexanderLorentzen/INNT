@@ -4,7 +4,6 @@ Dette er en skabelon til semi-strukturerede interviews (2 minimum kræves af opg
 
 ## Praktisk
 - Varighed: ca. 10-15 min pr. interview
-- Optag gerne (med samtykke) så du kan citere korrekt i rapporten
 - Noter direkte citater du kan bruge i "Resultater"-afsnittet
 
 ## 1. Opvarmning (forstå brugeren)
@@ -30,3 +29,25 @@ Dette er en skabelon til semi-strukturerede interviews (2 minimum kræves af opg
 - Noter 1-2 konkrete ting du vil ændre i appen baseret på feedbacken
 - Disse noter/citater er det du bruger i rapportens "Resultater"- og
   "Refleksioner"-afsnit — det skal være dine egne, reelle data
+
+---
+
+# Runde 2 – stakeholder-interviews 
+
+Stakeholdere: (1) medarbejder i dagligvarekæde (virksomhedspartner), (2) repræsentant for ældre aldersgruppe, (3) familie med børn (nye brugere).
+
+## Kort intro
+Vis kort de to ændringer fra version 1 (gem + flueben) og de nye funktioner (søg, kategorier, del, afslut indkøb, historik, stor tekst).
+
+## Spørgsmål til alle
+- Hvilken værdi ser du i appen for dig / din organisation / dine kunder?
+- Hvad ville være en barriere for at bruge eller anbefale den?
+- Hvad skulle der til, for at den var bedre end det, I bruger i dag?
+
+## Stakeholder-specifikt
+- Butik: Hvordan påvirker kunders indkøbslister jeres butik? Er der interesse i samarbejde (fx kategorier i butikkens rækkefølge)?
+- Ældre-organisation: Er appen tilgængelig nok (tekststørrelse, kontrast, få trin)? Hvad ville gøre, at jeres medlemmer prøvede den?
+- Familie: Hvordan koordinerer I indkøb i dag? Hvor godt virker "Del liste"?
+
+## Afrunding
+- Skala 1-5: hvor sandsynligt er det, at du ville bruge / anbefale appen?
